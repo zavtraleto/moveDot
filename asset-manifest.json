@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movedot/static/css/main.70349b94.css",
+    "main.js": "/movedot/static/js/main.69954255.js",
+    "static/js/453.e296607f.chunk.js": "/movedot/static/js/453.e296607f.chunk.js",
+    "index.html": "/movedot/index.html",
+    "main.70349b94.css.map": "/movedot/static/css/main.70349b94.css.map",
+    "main.69954255.js.map": "/movedot/static/js/main.69954255.js.map",
+    "453.e296607f.chunk.js.map": "/movedot/static/js/453.e296607f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70349b94.css",
+    "static/js/main.69954255.js"
+  ]
+}
